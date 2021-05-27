@@ -12,7 +12,8 @@ def guess(x):
             
     print(f"Yay, congrats. You have guessed the  mumber {random_number} correctly!!")   
 
-  
+#computer guess game
+ 
 def computer_guess(x): 
     low = 1
     high = x
